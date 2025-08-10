@@ -217,7 +217,7 @@ for _, val in next, game.Players.LocalPlayer.leaderstats:GetDescendants() do
 end
 
       OrionLib:MakeNotification({
-	Name = "Budgie Hub",
+	Name = "Duckys hub",
 	Content = "Your the sum of all statistics is " .. tostring(a),
 	Image = "rbxassetid://4483345998",
 	Time = 5
